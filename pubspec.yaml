@@ -59,6 +59,10 @@ flutter:
 
   assets:
   - image/1 h.jpg
+  - image/delete.png
+  - image/home.png
+  - image/pengaturan.png
+  - image/folder.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
